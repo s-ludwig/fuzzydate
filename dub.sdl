@@ -1,0 +1,4 @@
+name "fuzzydate"
+description "Simple fuzzy date formatting library"
+copyright "Copyright © 2015, Sönke Ludwig"
+authors "Sönke Ludwig"
